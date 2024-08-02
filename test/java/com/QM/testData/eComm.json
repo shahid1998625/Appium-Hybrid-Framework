@@ -1,0 +1,25 @@
+[
+
+  {
+    "name" : "Shahid",
+    "gender" : "male",
+    "country" : "Australia"
+  },
+  {
+    "name" : "Abhilash",
+    "gender" : "male",
+    "country" : "Argentina"
+  },
+
+  {
+    "name" : "Ravali",
+    "gender" : "female",
+    "country" : "Austria"
+  },
+
+  {
+    "name" : "Pranjal",
+    "gender" : "female",
+    "country" : "Bangladesh"
+  }
+]
