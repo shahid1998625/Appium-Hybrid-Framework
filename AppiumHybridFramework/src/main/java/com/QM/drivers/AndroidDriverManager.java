@@ -42,7 +42,7 @@ public class AndroidDriverManager {
             service.start();
 //          options.setDeviceName("TestPhone");
             options.setDeviceName("Android Device");
-            options.setChromedriverExecutable(System.getProperty("user.dir") + "\\src\\test\\java\\Setups\\chromedriver.exe"); // Set path where Chromedriver is located
+            options.setChromedriverExecutable(System.getProperty("user.dir") + "\\src\\test\\java\\com\\QM\\Setups\\chromedriver1.exe"); // Set path where Chromedriver is located
 //            options.setApp("D:\\Appium Automation\\AppiumSha\\src\\main\\java\\APK Files\\General-Store.apk");
             options.setApp(System.getProperty("user.dir") + "\\src\\main\\java\\com\\QM\\APK Files\\General-Store.apk");
             options.setAutomationName("UiAutomator2");
