@@ -1,0 +1,5 @@
+com\QM\pageObjects\android\FormPage.class
+com\QM\pageObjects\android\CartPage.class
+com\QM\utils\AndroidActions$1.class
+com\QM\utils\AndroidActions.class
+com\QM\pageObjects\android\ProductCataloguePage.class
