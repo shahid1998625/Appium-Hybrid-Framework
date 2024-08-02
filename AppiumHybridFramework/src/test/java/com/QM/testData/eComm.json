@@ -1,25 +1,26 @@
 [
-
   {
     "name" : "Shahid",
     "gender" : "male",
-    "country" : "Australia"
+    "country" : "Australia",
+    "company" : "Quality Matrix"
   },
   {
     "name" : "Abhilash",
     "gender" : "male",
-    "country" : "Argentina"
+  "country" : "Argentina",
+  "company" : "Purview"
   },
-
   {
     "name" : "Ravali",
     "gender" : "female",
-    "country" : "Austria"
+    "country" : "Austria",
+    "company" : "Synechron"
   },
-
   {
     "name" : "Pranjal",
     "gender" : "female",
-    "country" : "Bangladesh"
+    "country" : "Bangladesh",
+    "company" : "Synechron"
   }
 ]
